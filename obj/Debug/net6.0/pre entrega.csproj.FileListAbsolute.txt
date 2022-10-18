@@ -1,0 +1,22 @@
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.csproj.AssemblyReference.cache
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.AssemblyInfoInputs.cache
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.AssemblyInfo.cs
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.csproj.CoreCompileInputs.cache
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\pre entrega.exe
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\pre entrega.deps.json
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\pre entrega.runtimeconfig.json
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\pre entrega.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\pre entrega.pdb
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.csproj.CopyComplete
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\refint\pre entrega.dll
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.pdb
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\pre entrega.genruntimeconfig.cache
+C:\Users\alanl\source\repos\pre entrega\pre entrega\obj\Debug\net6.0\ref\pre entrega.dll
